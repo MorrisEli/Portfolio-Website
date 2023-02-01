@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+--dark:rgb(0,0,0);
+--light: rbg(141,153, 227)
+}
+
+body {
+    color: var(--dark);
+}
+
+header {
+    background-color: var(--light)
+    
+
+}
+header h1 {
+    background-color:  rgb(170, 153, 92);
+    font-size: large;
+}
