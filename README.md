@@ -32,3 +32,7 @@ Image Locations:
 Font-Styles:
 
 Class-Work References: 
+
+--dark-blue:rgb(165, 165, 165);
+--light-blue: rgb(5, 70, 225);
+}
